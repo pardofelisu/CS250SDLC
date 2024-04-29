@@ -22,6 +22,5 @@ Work from SNHU CS 250, including final project and presentation
       
       - Someone who works towards a goal that betters themselves and their team.
       
-        A team, as a whole, works as a singular entity who needs to deliver a good final product, and being apart of a team like this means that
-        you must have integrity and strive for perfection.
+        A team, as a whole, works as a singular entity who needs to deliver a good final product, and being apart of a team like this means that you must have integrity and strive for perfection.
 
